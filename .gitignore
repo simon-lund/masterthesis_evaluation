@@ -1,0 +1,8 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+
+# IDE
+.idea/
