@@ -1,0 +1,55 @@
+Abbreviated Label,Original Label
+Response_ID,Antwort ID
+Date_Submitted,Datum Abgeschickt
+Last_Page,Letzte Seite
+Start_Language,Start-Sprache
+Random_Start_Value,Zufallsstartwert
+Date_Started,Datum gestartet
+Date_Last_Activity,Datum letzte Aktivität
+Gender,Bitte geben Sie Ihr Geschlecht an.
+Age,Bitte geben Sie Ihr Alter in Jahren an.
+Group,Bitte geben Sie Ihre Gruppenzugehörigkeit an.
+TechAffinity_01,Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich beschäftige mich gern genauer mit technischen Systemen.]
+TechAffinity_02,Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich probiere gern die Funktionen neuer technischer Systeme aus.]
+TechAffinity_03,"Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [In erster Linie beschäftige ich mich mit technischen Systemen, weil ich muss.]"
+TechAffinity_04,"Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Wenn ich ein neues technisches System vor mir habe, probiere ich es intensiv aus.]"
+TechAffinity_05,Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich verbringe sehr gern Zeit mit dem Kennenlernen eines neuen technischen Systems.]
+TechAffinity_06,"Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Es genügt mir, dass ein technisches System funktioniert, mir ist es egal, wie oder warum.]"
+TechAffinity_07,"Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich versuche zu verstehen, wie ein technisches System genau funktioniert.]"
+TechAffinity_08,"Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Es genügt mir, die Grundfunktionen eines technischen Systems zu kennen.]"
+TechAffinity_09,"Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich versuche, die Möglichkeiten eines technischen Systems vollständig auszunutzen.]"
+Data_Protection,Mir ist der Schutz meiner persönlichen Daten im digitalen Raum ein wichtiges Anliegen. 
+NoPC_01,Inwiefern stimmen Sie den folgenden Aussagen zu. [Ich fand die Menge an Informationen überfordernd.]
+NoPC_02,Inwiefern stimmen Sie den folgenden Aussagen zu. [Ich fand die angezeigten Informationen verständlich.]
+NoPC_03,Inwiefern stimmen Sie den folgenden Aussagen zu. [Die Wiederholung der informierten Zustimmung hat mich gestört.]
+NoPC_04,Inwiefern stimmen Sie den folgenden Aussagen zu. [Die Wiederholung der informierten Zustimmung empfand ich als zu lang.]
+NoPC_05,Inwiefern stimmen Sie den folgenden Aussagen zu. [Das Erledigen der Aufgabe hat meine Konzentration beansprucht.]
+NoPC_Verifier,Haben unterschiedliche Betreiber (Verifizierer) Daten abgefragt?
+NoPC_Verifier_Open,"Wenn ja, welche Betreiber (Verifizierer) haben Informationen abgefragt?"
+NoPC_Question_WeeklyPlan,Frage zum Wochenplan
+NoPC_Transaction,"Haben Sie bei bestimmten Transaktionen Datenfelder bemerkt, deren Abfrage Sie überrascht oder deren Abfrage Sie nicht erwartet haben?"
+NoPC_Transaction_Open," Wenn ja, bei welchen Transaktionen hat sie die Abfrage von Datenfeldern überrascht und warum?"
+PC_01,Inwiefern stimmen Sie den folgenden Aussagen zu. [Ich fand die Menge an Informationen überfordernd.].1
+PC_02,Inwiefern stimmen Sie den folgenden Aussagen zu. [Ich fand die angezeigten Informationen verständlich.].1
+PC_03,Inwiefern stimmen Sie den folgenden Aussagen zu. [Die Wiederholung der informierten Zustimmung hat mich gestört.].1
+PC_04,Inwiefern stimmen Sie den folgenden Aussagen zu. [Die Wiederholung der informierten Zustimmung empfand ich als zu lang.].1
+PC_05,Inwiefern stimmen Sie den folgenden Aussagen zu. [Das Erledigen der Aufgabe hat meine Konzentration beansprucht.].1
+PC_Verifier,Haben unterschiedliche Betreiber (Verifizierer) Daten abgefragt?.1
+PC_Verifier_Open,"Wenn ja, welche Betreiber (Verifizierer) haben Informationen abgefragt?.1"
+PC_Question_WeeklyPlan,Frage zum Wochenplan.1
+PC_Transaction,"Haben Sie bei bestimmten Transaktionen Datenfelder bemerkt, deren Abfrage Sie überrascht oder deren Abfrage Sie nicht erwartet haben?.1"
+PC_Transaction_Open," Wenn ja, bei welchen Transaktionen hat sie die Abfrage von Datenfeldern überrascht und warum?.1"
+PC_SUS_01,"Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen.]"
+PC_SUS_02,Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich empfinde das System als unnötig komplex.]
+PC_SUS_03,Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich empfinde das System als einfach zu nutzen.]
+PC_SUS_04,"Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich brauche Hilfe, um das System zu verstehen.]"
+PC_SUS_05,"Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind.]"
+PC_SUS_07,"Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen.]"
+PC_SUS_09,Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt.]
+PC_SUS_08,Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an. [Ich empfinde die Bedienung als sehr umständlich.]
+System_Preference,Welches der beiden Systeme würden Sie bevorzugen? 
+PreConsent_Usability,Wie bewerten Sie den Pre-Consent-Mechanismus in Bezug auf seine Funktionalität und Benutzerfreundlichkeit?
+PreConsent_Trust,Inwieweit würden sie dem gezeigten Pre-Consent Mechanismus vertrauen?
+PreConsent_Improvement,Haben Sie Verbesserungsvorschläge?
+PreConsent_Concerns,Haben Sie Bedenken hinsichtlich der Nutzung des Pre-Consent Mechanismus?
+Feedback,"Gibt es etwas, das Sie uns gerne noch mitteilen möchten?(z.B. Anregungen, Ideen, Kritik oder Feedback)"
